@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Mounika Bandharu" src="./dark.svg" width="100%">
+</picture>
 # 💫 About Me:
 ✍️ I'm currently working on: Building Java-based projects, including a Payment Gateway System.<br><br>👥 I'm looking to collaborate on: Java, Backend Development, and Open Source Projects.<br><br>💛 I'm looking for help with: Improving my problem-solving skills and learning industry-level software development practices.<br><br>🌱 I'm currently learning: Core Java, OOP, Collections Framework, Java Streams, Lambda Expressions, Exception Handling, and Backend Development.<br><br>💬 Ask me about: Java Programming, Object-Oriented Programming, Collections, and my Payment Gateway Project.<br><br>⚡ Fun fact: I love learning new technologies and turning theoretical concepts into practical projects!
 
